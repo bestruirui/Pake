@@ -10,7 +10,7 @@ on:
         options:
           - 'windows-latest'
           - 'macos-latest'
-          - 'ubuntu-20.04'
+          - 'ubuntu-latest'
       url:
         description: '[URL]'
         required: true
